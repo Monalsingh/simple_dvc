@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ee9f5b3f-d8cf-486e-b896-6b0dc4720e3d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dvc.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/dvc.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/params.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/params.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/train_and_evaluate.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/train_and_evaluate.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +16,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pt89F8CnsiU7nuUEgqVMGy39Ym" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
